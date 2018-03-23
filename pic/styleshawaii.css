@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-	background-image:url("http://ciera.northwestern.edu/JPG/hawaiiback.jpg");
+	background-image:url("./hawaiiback.jpg");
 	font-family: 'Open Sans', sans-serif;;
 	font-size: 12px;
 	line-height: 19px;
